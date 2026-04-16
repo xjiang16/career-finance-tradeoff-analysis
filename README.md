@@ -129,17 +129,59 @@ career-finance-tradeoff-analysis/
 - China salary data is averaged from multiple listings
 - Exchange rate is standardized for comparison
 - This project focuses on structured modeling rather than exact prediction
+
 ---
 ## 🚀 Next Steps
-### Phase 2 — Cost of Living
-- Collect rent, food, and transportation cost data
-- Build cost-of-living dataset
-### Phase 3 — Financial Modeling
-- Calculate monthly savings
-- Compare purchasing power across locations
-### Phase 4 — Visualization
-- Salary comparison charts
-- Savings comparison charts
-- 3-year and 10-year projections
+### Phase 2 — Cost of Living & Lifestyle Baseline
+- Collect cost-of-living data (rent, food, transportation) across locations
+- Standardize monthly living expenses
+- Incorporate baseline housing assumptions (e.g., space, rent vs ownership)
+- Establish comparable “lifestyle baseline” across regions
 
+
+### Phase 3 — Financial Modeling (Short-Term)
+- Calculate monthly and annual savings
+- Compare real purchasing power across locations
+- Evaluate tradeoffs between salary and cost of living
+- Identify break-even points between regions and roles
+
+
+### Phase 4 — Career Trajectory Modeling (Long-Term)
+- Model salary growth over time (3–10 year horizon)
+- Compare career ceilings across:
+   - Higher education roles
+   - Data / tech roles
+- Incorporate transition scenarios (e.g., switching from higher ed → data)
+- Analyze long-term income divergence between career paths
+
+### Phase 5 — Asset Building & Housing Analysis
+- Compare homeownership vs renting scenarios
+- Estimate home affordability across regions
+- Incorporate family support factors (e.g., down payment assistance)
+- Evaluate impact of housing on long-term net worth
+
+### Phase 6 — Lifestyle & Comfort Tradeoffs
+- Compare housing quality (space, location, cost)
+- Evaluate work intensity and career stability
+- Incorporate qualitative factors:
+   - work-life balance
+   - job flexibility
+   - personal comfort and preference
+- Develop a structured “lifestyle score” framework
+
+
+### Phase 7 — Integrated Decision Model
+- Combine financial + career + lifestyle factors
+- Build a multi-factor comparison model
+- Run scenario analysis:
+   - conservative
+   - baseline
+   - optimistic
+- Identify which path maximizes overall long-term value
+
+### Phase 8 — Visualization & Reporting
+- Build comparison charts (salary, savings, projections)
+- Visualize long-term financial outcomes
+- Present tradeoffs clearly across scenarios
+- Summarize findings into a decision-oriented report
 
