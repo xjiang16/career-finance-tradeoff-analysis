@@ -1,0 +1,4 @@
+location,country,monthly_cost_usd,source
+Texas,USA,3200,Numbeo_estimate
+Shanghai,China,2000,Numbeo_estimate
+Suzhou,China,1500,Numbeo_estimate

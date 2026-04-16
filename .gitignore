@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+outputs/charts/*.png
+outputs/reports/*.pdf

@@ -1,0 +1,11 @@
+location,role,experience_level,salary_low,salary_high,period,currency,pay_months,source
+Texas,Software Developer,mid,102060,160240,year,USD,12,BLS
+Texas,Database Architect,mid,106880,162060,year,USD,12,BLS
+Texas,Database Administrator,mid,78920,135770,year,USD,12,BLS
+Texas,HigherEd Admin,mid,80140,133110,year,USD,12,BLS
+Shanghai,HigherEd Admin,mid,10000,25000,month,CNY,12,BOSS
+Suzhou,HigherEd Admin,mid,6000,15000,month,CNY,12,BOSS
+Shanghai,Data Analyst,mid,15000,30000,month,CNY,13,BOSS
+Suzhou,Data Analyst,mid,12000,20000,month,CNY,14,BOSS
+Shanghai,Data Engineer,mid,25000,40000,month,CNY,13,BOSS
+Suzhou,Data Engineer,mid,20000,30000,month,CNY,14,BOSS

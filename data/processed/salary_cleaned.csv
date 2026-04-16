@@ -1,0 +1,11 @@
+location,role,experience_level,source,currency_original,period_original,pay_months,salary_low_raw,salary_high_raw,salary_low_annual_local,salary_high_annual_local,median_annual_local,median_annual_usd,median_annual_cny
+Texas,Software Developer,mid,BLS,USD,year,12,102060,160240,102060,160240,131150.0,131150.0,904935.0
+Texas,Database Architect,mid,BLS,USD,year,12,106880,162060,106880,162060,134470.0,134470.0,927843.0
+Texas,Database Administrator,mid,BLS,USD,year,12,78920,135770,78920,135770,107345.0,107345.0,740680.5
+Texas,HigherEd Admin,mid,BLS,USD,year,12,80140,133110,80140,133110,106625.0,106625.0,735712.5
+Shanghai,HigherEd Admin,mid,BOSS,CNY,month,12,10000,25000,120000,300000,210000.0,30434.782608695652,210000.0
+Suzhou,HigherEd Admin,mid,BOSS,CNY,month,12,6000,15000,72000,180000,126000.0,18260.869565217392,126000.0
+Shanghai,Data Analyst,mid,BOSS,CNY,month,13,15000,30000,195000,390000,292500.0,42391.30434782609,292500.0
+Suzhou,Data Analyst,mid,BOSS,CNY,month,14,12000,20000,168000,280000,224000.0,32463.768115942028,224000.0
+Shanghai,Data Engineer,mid,BOSS,CNY,month,13,25000,40000,325000,520000,422500.0,61231.88405797101,422500.0
+Suzhou,Data Engineer,mid,BOSS,CNY,month,14,20000,30000,280000,420000,350000.0,50724.63768115942,350000.0
